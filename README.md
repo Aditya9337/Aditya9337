@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Aditya Kumar Nanda
-- 👀 I’m interested in learning new programming skills 
-- 🌱 I’m currently learning Java Full stack Development in Jspider institute 
+- 👀 I’m interested in learning new programming skills.
+- 🌱 I’m currently learning Java Full stack Development in Jspider institute.
+- 💞 I'm a Fresher and I'm currently looking for a Software Development Job.
 - 📫 Ph.No - +91 9337827479 and Email - aditya.nandamar15@gmail.com
 
 <!---
